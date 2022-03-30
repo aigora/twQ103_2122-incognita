@@ -1,10 +1,10 @@
-# [Título del trabajo]
+# Incógnita
 
 [Descripción breve del proyecto a realizar (2-3 frases).]
 
 ## Integrantes del equipo
 
-[Nombres, apellidos, y usuario GitHub de los integrantes del equipo.]
+Irene Mercader López, María Soledad Peña Benita, Javier San Miguel de Benito, Inés Varona Ramos.
 
 ## Objetivos del trabajo
 
