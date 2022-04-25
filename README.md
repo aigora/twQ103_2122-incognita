@@ -4,7 +4,7 @@
 
 ## Integrantes del equipo
 
-Irene Mercader López, María Soledad Peña Benita, Javier San Miguel de Benito (javiersanmi), Inés Varona Ramos.
+Irene Mercader López, María Soledad Peña Benita(solpeena), Javier San Miguel de Benito (javiersanmi), Inés Varona Ramos.
 
 ## Objetivos del trabajo
 
