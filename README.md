@@ -4,7 +4,7 @@ Incógnita se basa en la reinterpretación del juego de la caza del tesoro conve
 
 ## Integrantes del equipo
 
-Irene Mercader López, María Soledad Peña Benita (ID: solpeena), Javier San Miguel de Benito (ID: javiersanmi), Inés Varona Ramos.
+Irene Mercader López (ID: irenemercaderlopez), María Soledad Peña Benita (ID: solpeena), Javier San Miguel de Benito (ID: javiersanmi), Inés Varona Ramos.
 
 ## Objetivos del trabajo
 
