@@ -1,6 +1,6 @@
 # Incógnita
 
-Incógnita se basa en la reinterpretación del juego de la caza del tesoro convertido en una divertida búsqueda de un asesino a través de distintas preguntas y respuestas donde se irá descartando los posibles sospechosos hasta dar en el clavo.
+Incógnita se basa en la reinterpretación del juego de la caza del tesoro mezclándolo con el famoso juego Cluedo, convertiendo la experiencia en una divertida búsqueda de un asesino a través de distintas preguntas y respuestas donde se irá descartando los posibles sospechosos hasta dar finalmente con el asesino.
 
 ## Integrantes del equipo
 
