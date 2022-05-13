@@ -10,6 +10,6 @@ Irene Mercader López (ID: irenemercaderlopez), María Soledad Peña Benita (ID:
 
 ╰┈➤ Practicar la audacia, el uso de la lógica y el correcto uso de las herramientas otorgadas para lograr un determinado objetivo, en este caso, encontrar al asesino.
 
-╰┈➤ Cooperación si se decide jugar más de una persona
+╰┈➤ Competencia entre jugadores si se decide jugar 2.
 
 ╰┈➤ En lenguaje C, destaca el uso de funciones, ficheros, vectores y manejos del propio lenguaje.
