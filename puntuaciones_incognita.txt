@@ -1,4 +1,6 @@
-  Nombre	|    Tiempo	|   Puntuacion	
------------------------------------
-4	|	11	|	200
-4	|	5	|	200
+Nombre	 Tiempo	 Puntuacion
+------------------------------
+JAVIER	  126	  10
+ultimaprueba	   167	    10
+AICHA	   224	    10
+JAVIER	   29	    10
